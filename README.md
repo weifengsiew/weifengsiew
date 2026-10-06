@@ -2,8 +2,9 @@
 
 AI Apprentice at AI Singapore building AI-enabled solutions.
 
+[LinkedIn](https://www.linkedin.com/in/siew-wei-feng-49034964/) · [Email](mailto:siewwf371@gmail.com)
+
 - **Focus:** AI engineering and LLM applications
 - **Background:** Computational biology, machine learning and statistics
 - **Stack:** Python, scikit-learn, pandas, NumPy, Kedro, MLflow, Streamlit, pytest, GitHub Actions
 - **Featured:** [AI Task Chatbot](https://github.com/weifengsiew/ai-enabled-task-chatbot) · [Machine Learning Pipeline](https://github.com/weifengsiew/machine-learning-pipeline-hotel) · [ML From Scratch](https://github.com/weifengsiew/machine-learning-from-scratch) · [Neural Networks From Scratch](https://github.com/weifengsiew/neural-networks-from-scratch)
-- **Connect:** [LinkedIn](https://www.linkedin.com/in/siew-wei-feng-49034964/) · [Email](mailto:siewwf371@gmail.com)
